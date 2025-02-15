@@ -1,4 +1,3 @@
-<h1 align="center">Greetings👋, I'm Anandita Raj</h1>
 <h3 align="center">A passionate frontend developer on my best days, a competitive programmer by the night and even an avid reader in my quiet hours.</h3>
 
 - 🔭 I’m currently working on **2025 Diary**
