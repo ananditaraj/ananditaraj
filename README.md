@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer on my best days, a competitive programmer by the night and even an avid reader in my quiet hours.</h3>
+<h4>A passionate frontend developer on my best days, a competitive programmer by night and even an avid reader in my quiet hours.</h4>
 
 - 🔭 I’m currently working on **2025 Diary**
 
