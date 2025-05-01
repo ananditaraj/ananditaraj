@@ -1,6 +1,6 @@
 <h4>A passionate frontend developer on my best days, a competitive programmer by night and even an avid reader in my quiet hours.</h4>
 
-- 🔭 I’m currently working on **2025 Diary**
+- 🔭 I’m currently working on **Tunifiq**
 
 - 🌱 I’m currently learning **DSA and Frontend Frameworks**
 
