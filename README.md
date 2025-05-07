@@ -1,13 +1,9 @@
-<h4>A passionate frontend developer on my best days, a competitive programmer by night and even an avid reader in my quiet hours.</h4>
+<h4> developer on my best days, competitive programmer by night and even an avid reader in my quiet hours.</h4>
 
 - 🔭 I’m currently working on **Tunifiq**
-
 - 🌱 I’m currently learning **DSA and Frontend Frameworks**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ananditaraj](https://github.com/ananditaraj)
-
 - 📫 How to reach me **anandita.raj27@gmail.com**
-
 - ⚡ Something I swear by ? **That project isn't going to code itself.**
 
 <h3 align="left">Connect with me:</h3>
