@@ -1,6 +1,6 @@
 <h4> developer on my best days, competitive programmer by night and even an avid reader in my quiet hours.</h4>
 
-- 🔭 I’m currently working on **Tunifiq**
+- 🔭 I’m currently working on **Masonyx- Block simulator webapp**
 - 🌱 I’m currently learning **DSA and Frontend Frameworks**
 - 👨‍💻 All of my projects are available at [https://github.com/ananditaraj](https://github.com/ananditaraj)
 - 📫 How to reach me **anandita.raj27@gmail.com**
