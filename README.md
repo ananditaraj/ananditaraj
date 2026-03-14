@@ -27,7 +27,7 @@
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Anandita Raj </b></em>, an undergrad student. I enjoy learning new technologies and problem-solving at Codeforces and Leetcode. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, SpringBoot and more.
+  Hello There! <em><b> I'm Anandita Raj </b></em>, an undergrad student. I enjoy learning new technologies and problem-solving at Codeforces and Leetcode. urrently, I’m working on some small and fun projects to put my knowledge of JavaScript, React, Spring Boot, and other technologies into practice.
 </p>
 
 
