@@ -13,7 +13,7 @@
   <a href="https://leetcode.com/u/anandita_raj/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
+  <a href="https://ananditaraj.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
